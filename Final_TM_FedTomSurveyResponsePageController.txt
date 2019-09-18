@@ -1,5 +1,5 @@
 public class TM_FedTomSurveyResponsePageController {
-    //Newly created this file by Pratik
+    //Newly created this file by Pratik 2
     public List<FedTOM_Survey_Question__c> queList {get;set;}
     public List<QuestionWrapper> queWraList{get;set;}
     public Id surveySentId {get;set;}
